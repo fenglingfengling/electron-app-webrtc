@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="83ADEXJNiIXACnfGHy8J" name="Page-1">
+        <mxGraphModel dx="1002" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="60" width="390" height="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="控制端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="10" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="你的控制码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="145" y="110" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="输入傀儡端码" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="145" y="210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="确认" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="220" width="60" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=14;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="239.5" as="sourcePoint"/>
+                        <mxPoint x="470" y="239.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="60" width="390" height="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="傀儡端" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="635" y="10" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="傀儡端实时内容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="606" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
